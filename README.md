@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wjeancharles
-- 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ... Databases 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning more about computer science and programming
+- 🌱 I’m currently learning algorithms and software engineering 
+- 💞️ I’m looking to collaborate on anything fun
 - 📫 How to reach me ... jeanchaw@oregonstate.edu
 
 <!---
